@@ -24,9 +24,3 @@ jobs:
           python-version: 3.x
       - run: pip install mkdocs-material
       - run: mkdocs gh-deploy --force
-
-    © 2021 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
