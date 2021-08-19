@@ -16,5 +16,5 @@ I have over 20 years of enterprise technology experience in SAP. His strong inte
 
 
 
-* Raj Kumar Gentyala, [rgentyala](https://rgentyala.github.io/rgentyala/),
+* Raj Kumar Gentyala, [rgentyala](https://rgentyala.github.io/rgentyala/)
 
