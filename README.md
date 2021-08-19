@@ -1,4 +1,6 @@
-# Raj Kumar (RK) Gentyala
+# Raj Kumar (RK) Gentyala 
+![](https://github.com/rgentyala/rgentyala/blob/images/frameIt-3.png)
+
 
 Right leadership can turn vision in to reality. Believes in Art of Giving than Art of Living.
 
