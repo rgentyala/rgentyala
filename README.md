@@ -2,7 +2,8 @@
 ![](https://github.com/rgentyala/rgentyala/blob/images/frameIt-3.png)
 
 
-Right leadership can turn vision in to reality. Believes in Art of Giving than Art of Living.
+# Right leadership can turn vision in to reality. 
+# I Believe in Art of Giving than Art of Living.
 
 Being Hybrid Cloud Architect, I have a vision how to leverage cost efficient, resilience system architecture can work in collaboration with multiple clouds, on-premise integrated IT solutions can operate being reliability and security as prime focus.
 
